@@ -7,13 +7,6 @@ New version - v2.0.0
 * Updated FB files
 * New vanila userscript - potion hack
 
-## Discord
-1. [200bots.ga](http://200bots.ga)
-2. [Free Agar.io Bots](https://discord.gg/SDMNEcJ)
-
-## Usage
-1. [How to get Facebook Token](https://www.youtube.com/watch?v=Sjtb_OHP2tE)
-2. [Video tutorial for Windows](https://youtu.be/qnFnkmkh2VQ)
 
 
 Windows
